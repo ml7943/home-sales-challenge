@@ -6,7 +6,7 @@ This project involves using PySpark SQL to analyze home sales data. It includes 
 
 ## Assignment Overview
 
-The task involves performing various analyses and answering specific questions using PySpark SQL functions. Below are the main steps covered in this notebook:
+The task involves performing various analyses and answering specific questions using PySpark SQL functions. Below are the main steps covered in this project:
 
 1. **Data Ingestion:** Reading the `home_sales_revised.csv` data into a Spark DataFrame.
 2. **Creating a Temporary Table:** Creation of a temporary table named `home_sales`.
